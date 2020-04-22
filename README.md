@@ -1,6 +1,5 @@
-# KrinklesHell
+# Krinkle
 
-Santa Mayhem
 Get the candy, safe Christmas!
 
 UWP - Monogame
